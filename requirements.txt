@@ -1,0 +1,13 @@
+transformers
+sentencepiece
+datasets
+sacrebleu
+rouge-score
+py7zr
+pandas
+nltk
+tqdm
+PyYAML
+torch
+matplotlib
+-e .
