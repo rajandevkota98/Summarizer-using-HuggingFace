@@ -15,7 +15,7 @@ def get_requirements():
     return requirement_list
 
 setup(
-    name='TextSummarizer',
+    name='summarizer',
     version = '1.0.0',
     description='This is an end to end NLP project',
     author_email='r.devkota.98@gmail.com',
